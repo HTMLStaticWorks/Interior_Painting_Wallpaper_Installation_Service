@@ -115,3 +115,6 @@
 [data-theme="dark"] iframe {
     filter: invert(90%) hue-rotate(180deg) grayscale(100%) contrast(1.2) !important;
 }
+
+[data-theme="dark"] .social-icon { color: var(--text-primary) !important; }
+[data-theme="dark"] .mobile-menu-toggle { color: #ffffff !important; }
